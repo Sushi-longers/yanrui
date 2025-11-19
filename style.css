@@ -45,7 +45,7 @@ nav a.active {
 }
 
 
-.hero-box {
+#hero-box {
   background: rgba(255, 255, 255, 0.9);
   padding: 25px 35px;
   border-radius: 20px;
@@ -56,7 +56,7 @@ nav a.active {
 }
 
 
-.hero-box {
+#hero-box {
   background: rgba(255, 255, 255, 0.9);
   padding: 40px 60px;
   border-radius: 20px;
@@ -65,21 +65,21 @@ nav a.active {
 }
 
 
-.hero-box h2 {
+#hero-box h2 {
   font-size: 42px;
   margin-bottom: 15px;
   color: black;
   font-weight: 700;
 }
 
-.hero-box p {
+#hero-box p {
   font-size: 18px;
   margin-bottom: 25px;
   color: #333;
 }
 
 
-.hero-box button {
+#hero-box button {
   padding: 12px 28px;
   font-size: 16px;
   border-radius: 50px;
@@ -91,7 +91,7 @@ nav a.active {
   transition: 0.25s;
 }
 
-.hero-box button:hover {
+#hero-box button:hover {
   background: #333;
 }
 
@@ -420,3 +420,4 @@ footer {
 .contact-table a:hover {
   text-decoration: underline;
 }
+
